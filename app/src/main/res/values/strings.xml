@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="action_ActiviteGrp">Activités</string>
+    <string name="action_ActivitePrincipale">Activité principale</string>
+    <string name="action_Activite1">Activité 1</string>
+    <string name="action_Activite2">Activité 2</string>
+    <string name="action_Activite3">Activité 3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main1">Main1Activity</string>
+
+</resources>
